@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+ <head>
+   <title>Kleren</title>
+    <style>
+      h1 {font-size: 50px;   }
+      body {background-color: white;}
+      h1   {color: black;}
+      p    {color: black;}
+      p    {font-size: 40px;   }
+      h1   {text-allign: center;}
+      p    {text-allign: center;}
+
+    </style>
+ </head>
+ <body>
+    
+  
+    <p>Koop hier je kleren!</p>
+</body>
+</html>
